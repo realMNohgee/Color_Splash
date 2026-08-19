@@ -1,4 +1,5 @@
 # Color_Splash 🎨
+![CI](https://github.com/realMNohgee/Color_Splash/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Terminal color explorer. Preview ANSI/hex/rgb, generate palettes, check contrast ratios. Zero deps.**
 
