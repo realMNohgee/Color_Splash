@@ -9,6 +9,6 @@ jobs:
         with:
           python-version: '3.9'
       - name: Compile check
-        run: python3 -m py_compile Color_Splash.py
+        run: python3 -m py_compile color_splash.py
       - name: Smoke test (--help)
-        run: python3 Color_Splash.py --help
+        run: python3 color_splash.py --help
